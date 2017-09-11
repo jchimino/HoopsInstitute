@@ -608,6 +608,12 @@ h6,
 #msg-box8-1u p {
   color: #fff;
 }
+#msg-box5-1s P {
+  text-align: left;
+}
+#msg-box5-1s H3 {
+  text-align: left;
+}
 #contacts4-1r P {
   text-align: left;
 }
@@ -676,9 +682,24 @@ h6,
 #msg-box8-1y p {
   color: #fff;
 }
+#msg-box5-1z H3 {
+  text-align: left;
+}
+#msg-box5-1z P {
+  text-align: left;
+}
+#features1-23 .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #2e2e2e;
+}
+#content1-24 P {
+  color: #000000;
+  font-size: 15px;
+}
 #contacts4-1x P {
   text-align: left;
 }
+
+
 
 
 #menu-6 .hide-buttons .nav-btn {
@@ -757,9 +778,21 @@ h6,
   font-family: 'Raleway', sans-serif;
   font-size: 60px;
 }
+#header3-26 .mbr-section-title,
+#header3-26 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-26 .mbr-section-title {
+  text-align: left;
+  font-size: 48px;
+}
+#content1-27 P {
+  font-size: 18px;
+}
 #features6-1 P {
   color: #ffffff;
   text-align: center;
+  font-size: 17px;
 }
 #features6-1 H4 {
   color: #c1c1c1;
@@ -771,6 +804,9 @@ h6,
 }
 #header3-1c .mbr-section-title {
   text-align: left;
+}
+#features6-1b H4 {
+  font-size: 24px;
 }
 #header3-1d .mbr-section-title,
 #header3-1d .mbr-section-subtitle {
@@ -785,6 +821,7 @@ h6,
 }
 #features6-1g H4 {
   color: #ffffff;
+  font-size: 24px;
 }
 #msg-box7-19 .mbr-section-title,
 #msg-box7-19 .lead p {
@@ -798,8 +835,15 @@ h6,
   text-align: left;
 }
 #msg-box5-1o H3 {
-  font-size: 30px;
-}
-#contacts4-0 P {
+  font-size: 18px;
   text-align: left;
+  font-family: 'Raleway', sans-serif;
+}
+#msg-box5-1o P {
+  text-align: left;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 22px;
+}
+#contacts1-2a P {
+  font-size: 14px;
 }

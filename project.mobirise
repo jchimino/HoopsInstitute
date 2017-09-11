@@ -29,7 +29,7 @@
     "scrollAnimation": "true",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "uniqCompNum": 72,
+    "uniqCompNum": 83,
     "favicon": "",
     "noImageResize": "",
     "google-analytics": ""
@@ -227,7 +227,7 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "text1": "<strong>Address</strong><br>Chicago, Illinois<br><br><br>\n<strong>Contacts</strong><br>\nEmail: <a href=\"contactpage.html\">Contact</a><br><br>",
+          "text1": "<strong>Address</strong><br>Chicago, Illinois<br><br><br>\n<strong>Contacts</strong><br>Phone: (312) 469 - 0489<br>Email: <a href=\"contactpage.html\">Contact</a><br><br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Link</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://twitter.com/_CityHoops\" target=\"_blank\">Twitter</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"https://www.instagram.com/cityhoopsinstitute/\" target=\"_blank\">Instagram</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -420,7 +420,7 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "text1": "<strong>Address</strong><br>Chicago, Illinois<br><br><br>\n<strong>Contacts</strong><br>\nEmail: <a href=\"contactpage.html\">Contact</a><br><br>",
+          "text1": "<strong>Address</strong><br>Chicago, Illinois<br><br><br>\n<strong>Contacts</strong><br>Phone: (312) 469 - 0489<br>Email: <a href=\"contactpage.html\">Contact</a><br><br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Link</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://twitter.com/_CityHoops\" target=\"_blank\">Twitter</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"https://www.instagram.com/cityhoopsinstitute/\" target=\"_blank\">Instagram</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -605,7 +605,7 @@
             "showText": true,
             "showButtons": true,
             "inverse": false,
-            "imageSize": 50,
+            "imageSize": "45",
             "paddingTop": 0,
             "paddingBottom": 0,
             "bgImageRadio": false,
@@ -646,7 +646,15 @@
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-1s"
+          "_anchor": "msg-box5-1s",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "H3": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_tags": [
@@ -670,7 +678,7 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "text1": "<strong>Address</strong><br>Chicago, Illinois<br><br><br>\n<strong>Contacts</strong><br>\nEmail: <a href=\"contactpage.html\">Contact</a><br><br>",
+          "text1": "<strong>Address</strong><br>Chicago, Illinois<br><br><br>\n<strong>Contacts</strong><br>Phone: (312) 469 - 0489<br>Email: <a href=\"contactpage.html\">Contact</a><br><br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Link</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://twitter.com/_CityHoops\" target=\"_blank\">Twitter</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"https://www.instagram.com/cityhoopsinstitute/\" target=\"_blank\">Instagram</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -855,7 +863,7 @@
             "showText": true,
             "showButtons": true,
             "inverse": false,
-            "imageSize": 50,
+            "imageSize": "47",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -893,14 +901,148 @@
               "size": 0
             }
           },
-          "title": "Skill Development &amp; Training",
+          "title": "Basketball Skills Development &amp; Training",
           "text": "The City Hoops Institute offers student athletes of all ages the opporunity to progress their athletic career in various and flexible methods that suit your needs and skill sets. Individualized Development Plans and Open Enrollment opportunities are available, please contact the CHI for more information. &nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">CONTACT</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-1z"
+          "_anchor": "msg-box5-1z",
+          "_styles": {
+            "H3": {
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showImages": false,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": true,
+            "columnsColor": "#2e2e2e",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "$50/hr",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Daily rates with two hour minimum.<br><br>",
+          "title2": "10hrs/$400",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "A weeklong camp plus extra gym time for closers.<br><br>",
+          "title3": "24hrs/$2000<br>",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "A full day of hoops, three shifts, six, eight, or twelve, you pick!<br><br>",
+          "title4": "Six Months ALL ACCESS $3000.00",
+          "subtitle4": "Best Value",
+          "caption4": "Make the committment. Includes unlimited facility use!",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"contact.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">CONTACT</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"contact.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">CONTACT</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"contact.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">CONTACT</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"contact.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">CONTACT</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            }
+          },
+          "_anchor": "features1-23"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text": "<p>PLEASE CONTACT THE CITY HOOPS INSTITUTE IF YOU WOULD LIKE TO DONATE ADDITIONAL HOURS TO YOUTH IN A DIFFICULT FINANCIAL SITUATION.&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "font-size": "15px"
+            }
+          },
+          "_anchor": "content1-24"
         },
         {
           "_tags": [
@@ -924,7 +1066,7 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "text1": "<strong>Address</strong><br>Chicago, Illinois<br><br><br>\n<strong>Contacts</strong><br>\nEmail: <a href=\"contactpage.html\">Contact</a><br><br>",
+          "text1": "<strong>Address</strong><br>Chicago, Illinois<br><br><br>\n<strong>Contacts</strong><br>Phone: (312) 469 - 0489<br>Email: <a href=\"contactpage.html\">Contact</a><br><br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Link</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://twitter.com/_CityHoops\" target=\"_blank\">Twitter</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"https://www.instagram.com/cityhoopsinstitute/\" target=\"_blank\">Instagram</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -963,7 +1105,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "",
+        "meta_descr": "<form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\">\n<input type=\"hidden\" name=\"cmd\" value=\"_s-xclick\">\n<input type=\"hidden\" name=\"hosted_button_id\" value=\"DP7X6SAV8LPGA\">\n<input type=\"image\" src=\"https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif\" border=\"0\" name=\"submit\" alt=\"PayPal - The safer, easier way to pay online!\">\n<img alt=\"\" border=\"0\" src=\"https://www.paypalobjects.com/en_US/i/scr/pixel.gif\" width=\"1\" height=\"1\">\n</form>\n",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -1101,8 +1243,50 @@
             "overlayOpacity": "0.7"
           },
           "title": "<span style=\"font-size: 4.39rem; line-height: 1.1;\">City Hoops Institute</span><br>",
-          "text": "Sport for development and peace.",
+          "text": "Basketball for development and peace.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"index.html#features6-1\" data-toolbar=\"-mbrBtnMove\">Learn More</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "left",
+              "font-size": "48px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "title": "Our Mission",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-26"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The City Hoops Institute utilizes basketball for education, empowerment, development and peace amongst individuals and communities by creating positive developmental assets for youth and young adults to enhance their life skills through a positive sense of identity and pro social connectedness.&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-27",
+          "_styles": {
+            "P": {
+              "font-size": "18px"
+            }
+          }
         },
         {
           "_inherit": "features3",
@@ -1113,7 +1297,8 @@
           "_styles": {
             "P": {
               "color": "#ffffff",
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "17px"
             },
             "H4": {
               "color": "#c1c1c1",
@@ -1158,7 +1343,7 @@
           },
           "title1": "Information",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "The City Hoops Institute provides health, wellness, and athletic consulting services, resources, and experience to individuals, organizations, and communities to help them achieve their whole potential as contributors to multiple domains of society. Utilizing sport to transfer life skills, the CHI aims to positively impact students, athletes, coaches, and participants of all ages by ensuring their access to developmental assets.&nbsp;To learn more about services, opportunities and the benefits to enrolling in the City Hoops Institute, sign up below.&nbsp;",
+          "caption1": "The City Hoops Institute provides much more beyond basketball resources, &nbsp;health, wellness, and athletic consulting services and experience are available to individuals, organizations, and communities to help them achieve their whole potential as contributors to multiple domains of society. Utilizing various aspects of sport to transfer life skills, the CHI aims to positively impact students, athletes, participants of all ages, and their communities by ensuring access to developmental assets.&nbsp;To learn more about services, opportunities and the benefits to supporting the City Hoops Institute, sign up below.&nbsp;",
           "button1": "<a data-app-btn=\"true\" href=\"contactpage.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">Sign Up</a>",
           "media2": {
             "iconFont": {
@@ -1175,7 +1360,7 @@
           },
           "title2": "Positive Development",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "The City Hoops Institute focuses on positive development to build life skills through sport and to ease community tension, conflict, or poor decision making in multiple domains, such as in academia, at home, in the community, or in the office. &nbsp;If you're a coach, an educator, student, parent, manager or person inerested in sport for development and peace, please sign up below to request more information about our impact on students, athletes, and their community.<br><br>",
+          "caption2": "The City Hoops Institute focuses on positive development to build life skills through sport, to achieve their whole potential, to ease community tension, and decrease conflict and poor decision making in multiple domains, such as before or after school, at home, or in the community. &nbsp;If you're &nbsp;inerested in sport for development and peace, or if you want to become a positive influence on your community, we can help. Please sign up below to request more information about our impact on individuals and the community.<br><br>",
           "button2": "<a data-app-btn=\"true\" href=\"contactpage.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">Sign Up</a>",
           "media3": {
             "iconFont": {
@@ -1399,7 +1584,12 @@
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_name": "features6",
-          "_anchor": "features6-1b"
+          "_anchor": "features6-1b",
+          "_styles": {
+            "H4": {
+              "font-size": "24px"
+            }
+          }
         },
         {
           "_styles": {
@@ -1552,7 +1742,8 @@
               "color": "#ffffff"
             },
             "H4": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "24px"
             }
           }
         },
@@ -1630,10 +1821,10 @@
         {
           "_params": {
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": true,
-            "inverse": true,
-            "imageSize": "20",
+            "inverse": false,
+            "imageSize": "26",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -1653,7 +1844,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/chilogo2-1400x1400.png",
+              "src": "@PROJECT_PATH@/assets/images/copy-of-chilogo-recovered-560x890.png",
               "link": "index.html",
               "alt": "",
               "title": "",
@@ -1671,8 +1862,8 @@
               "size": 0
             }
           },
-          "title": "For additional information on individual and group services, please contact the City Hoops Institute.",
-          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "title": "As an Illinois not for profit organization, the CHI aims to raise developmental assets for individuals and communities. A portion of all proceeds will be contributed to providing before or after school recreational services, resources, supplies, or opportunities to students of the Chicago Public Schools, the Archdiocese of Chicago, or various charter networks of schools throughout the Chicagoland area or the Chicago Park District. Please contact the City Hoops Institute for further information on supporting sport for development and peace, or to donate time, resources, or support to our youth development and programming efforts.<br>",
+          "text": "For additional information on our community efforts and individual or group services, please contact the City Hoops Institute.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"contactpage.html\" data-toolbar=\"-mbrBtnMove\">CONTACT</a>",
           "_tags": [
             "Theme"
@@ -1681,21 +1872,20 @@
           "_anchor": "msg-box5-1o",
           "_styles": {
             "H3": {
-              "font-size": "30px"
+              "font-size": "18px",
+              "text-align": "left",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "P": {
+              "text-align": "left",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "22px"
             }
           }
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts4",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "contacts4-0",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -1703,42 +1893,40 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#000000",
+            "bgColor": "#2e2e2e",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "text1": "<strong>Address</strong><br>Chicago, Illinois<br><br><br>\n<strong>Contacts</strong><br>\nEmail: <a href=\"contactpage.html\">Contact</a><br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Link</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://twitter.com/_CityHoops\" target=\"_blank\">Twitter</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"https://www.instagram.com/cityhoopsinstitute/\" target=\"_blank\">Instagram</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "cityhoopsinstitute@gmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/chilogo4-128x128.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>"
+          "text1": "<strong>Address</strong><br>\nChicago, IL&nbsp;",
+          "text2": "<strong>Contacts</strong><br>\nEmail: cityhoopsinstitute@gmail.com<br>\nPhone: +1 (312) 469 0489&nbsp;",
+          "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"https://twitter.com/_CityHoops\">Twitter</a><br><a class=\"text-primary\" href=\"https://www.instagram.com/cityhoopsinstitute/\">Instagram&nbsp;</a><br><a class=\"text-primary\" href=\"https://www.facebook.com/CityHoopsInstitute/\">Facebook</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-2a",
+          "_styles": {
+            "P": {
+              "font-size": "14px"
+            }
+          }
         }
       ]
     }
