@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "athletics.html",
     "versionFirst": "3.0",
     "versionPublish": "4.2.4",
     "name": "CBC",
@@ -1773,7 +1773,7 @@
             }
           },
           "title": "Basketball <br>Skills Development &amp; Training<br>",
-          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;The City Hoops Institute offers student athletes of all ages the opporunity to progress their athletic career in various and flexible methods that suit your needs and skill sets. Individualized Development Plans and Open Enrollment opportunities are available, please contact the CHI for more information. &nbsp;<br></p><br><p><br><br><br></p>",
+          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;The City Hoops Institute offers student athletes of all ages the opporunity to progress their athletic career in various and flexible methods that suit your needs and skill sets. Individualized Development Plans and Open Enrollment opportunities are available, please contact the CHI for more information. &nbsp;<br></p><p><br><br><br></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">CONTACT</a>",
           "_tags": [
             "Theme"
