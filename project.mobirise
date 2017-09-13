@@ -1927,7 +1927,7 @@
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "text": "<p>PLEASE CONTACT THE CITY HOOPS INSTITUTE IF YOU WOULD LIKE TO DONATE MUCH DISCOUNTED PACKAGES/HOURS TO YOUTH AND COMMUNITIEIS IN NEED.</p>",
+          "text": "<p>PLEASE CONTACT THE CITY HOOPS INSTITUTE IF YOU WOULD LIKE TO DONATE MUCH DISCOUNTED PACKAGES/HOURS TO YOUTH AND COMMUNITIES IN NEED.</p>",
           "_tags": [
             "Theme"
           ],
@@ -1935,7 +1935,8 @@
           "_styles": {
             "P": {
               "color": "#000000",
-              "font-size": "14px"
+              "font-size": "12px",
+              "text-align": "center"
             }
           },
           "_anchor": "content1-24"
