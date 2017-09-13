@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "athletics.html",
+    "currentPage": "Action.html",
     "versionFirst": "3.0",
     "versionPublish": "4.2.4",
     "name": "CBC",
@@ -29,7 +29,7 @@
     "scrollAnimation": "true",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "uniqCompNum": 96,
+    "uniqCompNum": 98,
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "",
@@ -2118,7 +2118,7 @@
             "showTitle": true,
             "showCaption": true,
             "paddingTop": "5",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/photo-mar-22-12-10-01-am-1241x1230.png",
             "parallax": true,
@@ -2133,12 +2133,25 @@
             "overlayOpacity": 0.5
           },
           "title": "Advancement Opportunities",
-          "caption": "<p>The City Hoops Institute offers participants promotion and placement into the next stage of your career, whether you're looking for a degree, a job, or some place to hoop, <a href=\"contact.html\" style=\"font-style: normal;\" class=\"text-white\">contact us</a>!&nbsp;</p>",
+          "caption": "<p><br></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content5",
           "_anchor": "content5-2h"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;The City Hoops Institute offers interested participants promotion and placement services for entering into the next stage of their career, whether you're looking for a degree, a job, or some place to hoop, contact us!&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2o"
         },
         {
           "_tags": [
@@ -2318,7 +2331,7 @@
             "showText": true,
             "showButton": false,
             "paddingTop": "5",
-            "paddingBottom": "2",
+            "paddingBottom": "0",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/photo-mar-22-12-10-01-am-1241x1230.png",
             "parallax": true,
@@ -2333,13 +2346,31 @@
             "overlayOpacity": 0.5
           },
           "title": "WANT SOME ACTION?",
-          "text": "<p>Games, leagues, competition, individual and group development sessions? &nbsp;<a href=\"contact.html\" class=\"text-white\"><span style=\"font-style: normal;\">CONTACT</span> <span style=\"font-style: normal;\">US!</span></a></p>",
+          "text": "<p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box8",
           "_anchor": "msg-box8-2i"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Games, leagues, competition, individual and group development sessions?  CONTACT US!</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2p",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_tags": [
