@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "home.html",
+    "currentPage": "advancements.html",
     "versionFirst": "3.0",
     "versionPublish": "4.3.0",
     "name": "CBC",
@@ -1757,11 +1757,11 @@
           },
           "_params": {
             "showMeta": false,
-            "paddingTop": 1,
-            "paddingBottom": "0",
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "bgColor": "#fff"
           },
-          "title": "Our Mission",
+          "title": "Our Mission<br>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -1772,10 +1772,10 @@
         {
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": 1,
+            "paddingBottom": "3",
             "bgColor": "#fff"
           },
-          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The City Hoops Institute utilizes basketball for education, empowerment, development and peace amongst individuals and communities by creating positive developmental assets for youth and young adults to enhance their life skills through a positive sense of identity and pro social connectedness.&nbsp;</p>",
+          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The City Hoops Institute utilizes basketball to promote development and peace amongst individuals and communities by creating developmental assets for youth and young adults to positively enhance their life skills.&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
@@ -1842,7 +1842,7 @@
           },
           "title1": "Information",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "The City Hoops Institute provides much more beyond basketball resources; health, wellness, and athletic consulting services and experience are available to individuals, organizations, and communities to help them achieve their whole potential as contributors to multiple environments within society. Utilizing various aspects of sport to transfer life skills, the CHI aims to positively impact students, athletes, participants of all ages, other organizations, and their communities by ensuring their access to transferable developmental assets.&nbsp;To learn more about services, opportunities and the benefits to supporting the City Hoops Institute, sign up below.&nbsp;",
+          "caption1": "The City Hoops Institute provides much more beyond basketball resources; a wide range of academic, athletic, health, and wellness consulting services and experience are available to individuals, organizations, and communities to help them achieve their whole potential as contributors to multiple environments within society. Utilizing various aspects of sport to transfer life skills, the CHI aims to positively impact students, athletes, participants of all ages, other organizations, and their communities by ensuring their access to transferable developmental assets.&nbsp;To learn more about services, opportunities and the benefits to supporting the City Hoops Institute, sign up below.&nbsp;",
           "button1": "<a data-app-btn=\"true\" href=\"contactpage.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">Sign Up</a>",
           "media2": {
             "iconFont": {
