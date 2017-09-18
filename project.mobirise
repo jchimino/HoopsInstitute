@@ -2,7 +2,7 @@
   "settings": {
     "currentPage": "home.html",
     "versionFirst": "3.0",
-    "versionPublish": "4.2.4",
+    "versionPublish": "4.3.0",
     "name": "CBC",
     "theme": {
       "name": "mobirise3",
@@ -1235,7 +1235,7 @@
             "showButtons": true,
             "inverse": false,
             "imageSize": "45",
-            "paddingTop": 0,
+            "paddingTop": "1",
             "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1268,8 +1268,8 @@
               "size": 0
             }
           },
-          "title": "Tutoring &amp; Companion Services",
-          "text": "The City Hoops Institute offers individualized development plans for all ages of student athletes, from youth to adults. Whether the topic is math, history, the triangle offense, or computer programming, we have the coach, or teacher, for you.<br><br>Please contact us to learn more.",
+          "title": "Mentoring &amp; Companion Services",
+          "text": "The City Hoops Institute believes in reaching your whole potential and offers individualized development plans for all ages of student athletes. For youth to adults, this includes mentorships, tutoring, inclusion, and companion services in the academic realm as well as in athletics, recreation, or fitness. Whether the topic is finance, another language, the triangle offense, or computer programming, we have the coach/teacher for you.<br><br>Please contact us to learn more.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">CONTACT</a>",
           "_tags": [
             "Theme"
@@ -1307,11 +1307,11 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "4",
             "paddingBottom": "1",
             "bgColor": "#fff"
           },
-          "text": "<p>Although similar prices to our athletic services are available, tutoring and companion services vary widely depending on the development plan, curriculum, grade level, etc. Please contact the City Hoops Institute for further pricing details.<br></p>",
+          "text": "<p>Although similar prices to our athletic services are available, tutoring and companion services vary widely depending on the development plan, curriculum, grade level, and specific needs etc. Please contact the City Hoops Institute for further pricing details..<br></p>",
           "_tags": [
             "Theme"
           ],
@@ -2060,7 +2060,7 @@
           ],
           "title1": "Academics",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Tutoring &amp; Companion Services",
+          "caption1": "Mentoring &amp; Companion Services",
           "title2": "Athletics",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "Skill Development &amp; Training",
