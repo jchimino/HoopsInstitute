@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "home.html",
+    "currentPage": "individualservices.html",
     "versionFirst": "3.0",
     "versionPublish": "4.3.0",
     "name": "CBC",
@@ -408,7 +408,7 @@
           },
           "title": "<span style=\"font-size: 4.39rem; line-height: 1.1;\">City Hoops Institute</span><br>",
           "text": "Basketball for development and peace.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"index.html#features6-1\" data-toolbar=\"-mbrBtnMove\">Learn More</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=10.00&amp;item_name=Custom+Item&amp;currency_code=USD\" data-toolbar=\"-mbrBtnMove\">Donate</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"index.html#features6-1\" data-toolbar=\"-mbrBtnMove\">Learn More</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=10.00&amp;item_name=Ten+dollars&amp;currency_code=USD\" data-toolbar=\"-mbrBtnMove\">Donate</a>"
         },
         {
           "_styles": {
@@ -1317,7 +1317,8 @@
           "_name": "msg-box5",
           "_styles": {
             "P": {
-              "text-align": "left"
+              "text-align": "left",
+              "font-size": "19px"
             },
             "H3": {
               "text-align": "left",
@@ -1413,7 +1414,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">Basketball Skills Development &amp; Training</span><br>",
+          "title": "<span style=\"font-weight: normal;\">Basketball Skills Development </span><br><span style=\"font-weight: normal;\">&amp; Training</span><br>",
           "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;The City Hoops Institute offers student athletes of all ages the opporunity to progress their athletic career in various and flexible methods that suit your needs and skill sets. Individualized Development Plans and Open Enrollment opportunities are available, please contact the CHI for more information. &nbsp;<br></p><p><br><br><br></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">CONTACT</a>",
           "_tags": [
@@ -1426,7 +1427,8 @@
               "font-size": "46px"
             },
             "P": {
-              "text-align": "left"
+              "text-align": "left",
+              "font-size": "19px"
             }
           },
           "_anchor": "msg-box5-2w"
@@ -1527,16 +1529,16 @@
               "active": true
             }
           },
-          "title1": "$50/hr",
+          "title1": "<span style=\"font-weight: normal;\">$50/hr</span><br><span style=\"font-weight: normal;\"><br></span>",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Daily rates with two hour minimum.<br><br>",
-          "title2": "10hrs/$400",
+          "title2": "<span style=\"font-weight: normal;\">10hrs/$400</span><br><span style=\"font-weight: normal;\"><br></span>",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "A weeklong camp plus extra gym time for closers.<br><br>",
-          "title3": "24hrs/$2000<br>",
+          "title3": "<span style=\"font-weight: normal;\">24hrs/$2000</span><span style=\"font-weight: normal;\"><br></span><br>",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "A full day of hoops, three shifts, six, eight, or twelve, you pick!<br><br>",
-          "title4": "Six Months ALL ACCESS $3000.00",
+          "title4": "<span style=\"font-weight: normal;\">6 Months </span><span style=\"font-weight: normal;\">ALL ACCESS $3000.00</span>",
           "subtitle4": "Best Value",
           "caption4": "Make the committment. Includes unlimited facility use!",
           "title5": "Trendy Website Blocks",
@@ -1545,7 +1547,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=50.00&amp;item_name=Single+Hour&amp;currency_code=USD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PURCHASE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=50.00&amp;item_name=Single+Hour&amp;currency_code=USD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PURCHASE</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=400.00&amp;item_name=Ten+Hours&amp;currency_code=USD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PURCHASE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=2000.00&amp;item_name=Twenty+Four+Hours&amp;currency_code=USD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PURCHASE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=3000.00&amp;item_name=Six+Months&amp;currency_code=USD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PURCHASE</a>",
@@ -1558,6 +1560,12 @@
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
               "background-color": "#2e2e2e"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title SPAN": {
+              "font-size": "22px"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title SPAN": {
+              "font-size": "22px"
             }
           },
           "_anchor": "features1-2x"
@@ -1622,7 +1630,8 @@
           "_anchor": "content1-2u",
           "_styles": {
             "P": {
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "19px"
             }
           }
         },
@@ -1663,7 +1672,8 @@
           "_anchor": "content1-2p",
           "_styles": {
             "P": {
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "19px"
             }
           }
         },

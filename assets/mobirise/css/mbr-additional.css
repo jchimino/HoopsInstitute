@@ -710,6 +710,7 @@ h6,
 }
 #msg-box5-30 P {
   text-align: left;
+  font-size: 19px;
 }
 #msg-box5-30 H3 {
   text-align: left;
@@ -732,6 +733,7 @@ h6,
 }
 #msg-box5-2w P {
   text-align: left;
+  font-size: 19px;
 }
 #header3-2z .mbr-section-title,
 #header3-2z .mbr-section-subtitle {
@@ -743,6 +745,12 @@ h6,
 }
 #features1-2x .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
+}
+#features1-2x .mbr-cards-col:nth-child(even) .card-title SPAN {
+  font-size: 22px;
+}
+#features1-2x .mbr-cards-col:nth-child(odd) .card-title SPAN {
+  font-size: 22px;
 }
 #content1-2y P {
   color: #ffffff;
@@ -761,6 +769,7 @@ h6,
 }
 #content1-2u P {
   text-align: center;
+  font-size: 19px;
 }
 #header3-2q .mbr-section-title,
 #header3-2q .mbr-section-subtitle {
@@ -771,6 +780,7 @@ h6,
 }
 #content1-2p P {
   text-align: center;
+  font-size: 19px;
 }
 #contacts4-2g P {
   text-align: left;
