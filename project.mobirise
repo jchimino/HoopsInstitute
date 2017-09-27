@@ -68,10 +68,10 @@
               "color": "#000000"
             },
             ".link": {
-              "font-size": "1.2rem"
+              "font-size": "1.05rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.300rem"
+              "font-size": "1.137rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -108,10 +108,10 @@
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1.2",
+            "fontSize": "1.05",
             "fontName": {},
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
@@ -296,10 +296,10 @@
               "color": "#000000"
             },
             ".link": {
-              "font-size": "1.2rem"
+              "font-size": "1.05rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.300rem"
+              "font-size": "1.137rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -337,10 +337,10 @@
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1.2",
+            "fontSize": "1.05",
             "fontName": {},
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
@@ -934,7 +934,7 @@
             "showButtons": false,
             "inverse": false,
             "imageSize": 50,
-            "paddingTop": "4",
+            "paddingTop": "5",
             "paddingBottom": "3",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/file-000-4-1999x856.png",
@@ -1121,10 +1121,10 @@
               "color": "#000000"
             },
             ".link": {
-              "font-size": "1.2rem"
+              "font-size": "1.05rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.300rem"
+              "font-size": "1.137rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1161,10 +1161,10 @@
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1.2",
+            "fontSize": "1.05",
             "fontName": {},
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
