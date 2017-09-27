@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "individualservices.html",
+    "currentPage": "home.html",
     "versionFirst": "3.0",
     "versionPublish": "4.3.0",
     "name": "CBC",
@@ -55,7 +55,8 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "30px"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -67,10 +68,10 @@
               "color": "#000000"
             },
             ".link": {
-              "font-size": "0.95rem"
+              "font-size": "1.2rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.029rem"
+              "font-size": "1.300rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -107,10 +108,10 @@
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": false,
-            "bgColor": "#c1c1c1",
-            "fontSize": "0.95",
+            "bgColor": "#ffffff",
+            "fontSize": "1.2",
             "fontName": {},
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
@@ -282,7 +283,8 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "30px"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -294,22 +296,22 @@
               "color": "#000000"
             },
             ".link": {
-              "font-size": "0.95rem"
+              "font-size": "1.2rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.029rem"
+              "font-size": "1.300rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#a8a8a8"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#b9b9b9!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#c1c1c1"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -335,10 +337,10 @@
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": false,
-            "bgColor": "#c1c1c1",
-            "fontSize": "0.95",
+            "bgColor": "#ffffff",
+            "fontSize": "1.2",
             "fontName": {},
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
@@ -1009,11 +1011,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/copy-of-chilogo-recovered-560x890.png",
+              "src": "@PROJECT_PATH@/assets/images/chilogo-128x199.png",
               "link": "index.html",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -1065,13 +1066,12 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/chilogo4-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/chilogo2-3-128x128.png",
               "width": 128,
               "active": true,
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -1108,7 +1108,8 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "30px"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -1120,22 +1121,22 @@
               "color": "#000000"
             },
             ".link": {
-              "font-size": "0.95rem"
+              "font-size": "1.2rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.029rem"
+              "font-size": "1.300rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#a8a8a8"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#b9b9b9!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#c1c1c1"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -1160,10 +1161,10 @@
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": false,
-            "bgColor": "#c1c1c1",
-            "fontSize": "0.95",
+            "bgColor": "#ffffff",
+            "fontSize": "1.2",
             "fontName": {},
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
