@@ -970,7 +970,7 @@
               "name": "globe",
               "family": "MobiriseIcons",
               "link": "contactpage.html",
-              "size": "300",
+              "size": "",
               "color": "#ffffff",
               "newWindow": false,
               "active": true
