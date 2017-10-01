@@ -3,7 +3,7 @@
     "currentPage": "home.html",
     "versionFirst": "3.0",
     "versionPublish": "4.3.0",
-    "name": "CBC",
+    "name": "City Hoops Institute",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -33,7 +33,7 @@
     "uniqCompNum": 110,
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": "",
+    "google-analytics": "<!-- Global Site Tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-107298671-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments)};\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-107298671-1');\r\n</script>\r\n",
     "mcShopcart": {
       "email": "cityhoopsinstitute@gmail.com"
     }
