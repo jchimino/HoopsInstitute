@@ -610,7 +610,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "text-align": "left",
+              "text-align": "center",
               "color": "#000000"
             }
           },
@@ -620,7 +620,7 @@
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
-          "title": "Group Services",
+          "title": "Services",
           "meta": "",
           "_tags": [
             "Theme"
@@ -682,8 +682,8 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "wifi",
-              "family": "MobiriseIcons",
+              "name": "streetsign",
+              "family": "et-line",
               "active": true,
               "link": "contactpage.html",
               "size": 0,
@@ -724,15 +724,15 @@
           "_tags": [
             "Theme"
           ],
-          "title1": "Organization",
+          "title1": "Experiential Workshops",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Team Building &amp; Pro Social Connectedness",
-          "title2": "Conflict Resolution",
+          "caption1": "for individual, team, and community development.&nbsp;",
+          "title2": "Leadership Seminars",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Interventions &amp; Mediation",
-          "title3": "Exposure",
+          "caption2": "focused on teaching life skills &amp; core competencies.<br><br>",
+          "title3": "Mediation &amp; Intervention",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Platform Marketing Opportunities",
+          "caption3": "strategies for conflict resolution &amp; negotiations.",
           "title4": "Management",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
@@ -756,7 +756,7 @@
             },
             "H4": {
               "color": "#ffffff",
-              "font-size": "24px"
+              "font-size": "30px"
             }
           }
         },
@@ -767,7 +767,7 @@
               "color": "#fff"
             },
             "H3": {
-              "font-size": "36px",
+              "font-size": "46px",
               "text-align": "left"
             },
             "P": {
@@ -823,7 +823,7 @@
             }
           },
           "title": "CHI has no borders.",
-          "text": "International opportunities exist among the CHI's vast network of coaches, players, teams, programs, and institutions around the globe. The CHI offers exposure to many places and various cultures throughout the world for both educational and professional purposes.<br><br>Please contact the CHI for further information.",
+          "text": "The CHI values diversity and collaboration because basketball unites all of us around the globe.&nbsp;<br><br>While we strive to impact our local neighborhoods, we also have international opportunities that exist among the CHI's vast network of coaches, players, teams, programs, and institutions! <br><br>We would love to partner with you as well! &nbsp;<br>Please contact the CHI for further information.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_tags": [
             "Theme"
