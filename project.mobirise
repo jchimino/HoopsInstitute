@@ -2,7 +2,7 @@
   "settings": {
     "currentPage": "index.html",
     "versionFirst": "3.0",
-    "versionPublish": "4.3.0",
+    "versionPublish": "4.3.4",
     "name": "City Hoops Institute",
     "theme": {
       "name": "mobirise3",
@@ -133,7 +133,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CHI</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-1\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=10.00&amp;item_name=TEN+DOLLARS&amp;currency_code=USD\">DONATE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactpage.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-1\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=10.00&amp;item_name=Before%2FAfter+School+Hour&amp;currency_code=USD\">DONATE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "_anchor": "menu-o"
         },
         {
@@ -361,7 +361,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CHI</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-1\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=10.00&amp;item_name=TEN+DOLLARS&amp;currency_code=USD\">DONATE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactpage.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-1\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=10.00&amp;item_name=Before%2FAfter+School+Hour&amp;currency_code=USD\">DONATE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "header1",
@@ -502,7 +502,7 @@
               "name": "info",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "contactpage.html",
+              "link": "https://www.facebook.com/CityHoopsInstitute/",
               "size": 0,
               "color": "#ffffff",
               "newWindow": false
@@ -511,7 +511,7 @@
           "title1": "Information",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "The City Hoops Institute provides much more beyond basketball resources. We believe a wide range of academic, athletic, health, and wellness consulting services and resources should be affordable and available to individuals, organizations, and communities of all ages and types to help them achieve their whole potential in multiple environments of society. <br><br>Utilizing various aspects of basketball and other sports to transfer life skills, the CHI specializes in individual, organizational, &amp; community development by ensuring access to particular internal and external assets.&nbsp;<br><br>To learn more about services, opportunities and the benefits to supporting the City Hoops Institute, sign up below.&nbsp;",
-          "button1": "<a data-app-btn=\"true\" href=\"contactpage.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">Sign Up</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"contact.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">Sign Up</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -528,7 +528,7 @@
           "title2": "Positive Development",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "The City Hoops Institute focuses on positive development to build life skills through sport, for students, athletes, and others to achieve their whole potential, but to also ease community tension, and to decrease conflict and poor decision making in multiple environments, such as before or after school, at home, or in the community. &nbsp;<br><br>If you're &nbsp;inerested in sport for development and peace, or if you want to become a positive influence on your community, we can assist you. Please sign up below to request more information about our impact on individuals and the community.<br><br><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"contactpage.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">Sign Up</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"contact.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">Sign Up</a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -659,7 +659,7 @@
               "name": "users",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "contactpage.html",
+              "link": "contact.html",
               "size": 0,
               "color": "#ffffff",
               "newWindow": false
@@ -672,7 +672,7 @@
               "name": "edit",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "contactpage.html",
+              "link": "contact.html",
               "size": 0,
               "color": "#ffffff",
               "newWindow": false
@@ -685,7 +685,7 @@
               "name": "streetsign",
               "family": "et-line",
               "active": true,
-              "link": "contactpage.html",
+              "link": "contact.html",
               "size": 0,
               "color": "#ffffff",
               "newWindow": false
@@ -815,7 +815,7 @@
               "linkInNewWindow": false,
               "name": "globe",
               "family": "MobiriseIcons",
-              "link": "contactpage.html",
+              "link": "contact.html",
               "size": "",
               "color": "#ffffff",
               "newWindow": false,
@@ -876,7 +876,7 @@
           },
           "title": "As an Illinois not for profit organization, the CHI aims to raise developmental assets for individuals and communities. A portion of all proceeds and ALL of which is donated to the CHI is contributed to providing before or after school recreational, or educational services, resources, supplies, or opportunities to students of the Chicago Public Schools, the Archdiocese of Chicago, or various charter networks of schools throughout the Chicagoland area, or the Chicago Park District. Please contact the City Hoops Institute for details and further information on supporting sport for development and peace, or to donate time, resources, or support to our youth development and community programming efforts.<br>",
           "text": "For additional information on our community efforts and individual or group services, please contact the City Hoops Institute.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=15.00&amp;item_name=Before%2FAfter+School+Hour&amp;currency_code=USD\" data-toolbar=\"-mbrBtnMove\">DONATE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=10.00&amp;item_name=Before%2FAfter+School+Hour&amp;currency_code=USD\" data-toolbar=\"-mbrBtnMove\">DONATE</a>",
           "_tags": [
             "Theme"
           ],
@@ -915,9 +915,10 @@
               "src": "@PROJECT_PATH@/assets/images/chilogo2-3-128x128.png",
               "width": 128,
               "active": true,
-              "link": "",
+              "link": "#top",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
