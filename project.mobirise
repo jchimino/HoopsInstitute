@@ -519,10 +519,8 @@
               "name": "plus",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "contactpage.html",
               "size": 0,
-              "color": "#ffffff",
-              "newWindow": false
+              "color": "#ffffff"
             }
           },
           "title2": "Positive Development",
