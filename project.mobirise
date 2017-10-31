@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "contact.html",
+    "currentPage": "index.html",
     "versionFirst": "3.0",
     "versionPublish": "4.3.4",
     "name": "City Hoops Institute",
@@ -173,9 +173,9 @@
           "subtitle": "",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
           "form": {
-            "action": "cityhoopsinstitute@gmail.com",
+            "action": "jchim42@gmail.com",
             "alerts": {
-              "success": "Thank you for contacting the Citywide Hoops Institute. We've received your message and will get back to you as soon as possible. Have a nice day!"
+              "success": "Thank you for contacting the Citywide Hoops Initiative. We've received your message and will get back to you as soon as possible. Have a nice day!"
             },
             "fields": {
               "name": {
@@ -855,7 +855,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/chilogo-128x199.png",
+              "src": "@PROJECT_PATH@/assets/images/copy-of-chilogo-1-1400x2183.png",
               "link": "index.html",
               "alt": "",
               "title": ""
