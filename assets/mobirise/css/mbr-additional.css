@@ -608,6 +608,20 @@ h6,
 #msg-box7-19 P {
   text-align: left;
 }
+#header3-3i .mbr-section-title,
+#header3-3i .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3i .mbr-section-title {
+  color: #ffffff;
+}
+#msg-box5-3g P {
+  text-align: left;
+  font-size: 16px;
+}
+#msg-box5-3g H3 {
+  text-align: left;
+}
 #msg-box5-1o H3 {
   font-size: 18px;
   text-align: left;
