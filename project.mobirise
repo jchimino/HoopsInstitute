@@ -878,7 +878,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/file-feb-23-1-35-06-pm-777x618.jpg",
+              "src": "@PROJECT_PATH@/assets/images/file-feb-23-1-35-06-pm-777x618.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -939,7 +939,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/file-feb-23-1-58-31-pm-1125x1115.jpg",
+              "src": "@PROJECT_PATH@/assets/images/file-feb-23-1-58-31-pm-1125x1115.png",
               "link": "",
               "alt": "",
               "title": ""
