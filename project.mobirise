@@ -108,8 +108,8 @@
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": false,
-            "transparent": false,
+            "collapsed": true,
+            "transparent": true,
             "bgColor": "#ffffff",
             "fontSize": "1.05",
             "fontName": {},
@@ -337,8 +337,8 @@
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": false,
-            "transparent": false,
+            "collapsed": true,
+            "transparent": true,
             "bgColor": "#ffffff",
             "fontSize": "1.05",
             "fontName": {},
@@ -641,7 +641,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#222222",
+            "bgColor": "#000000",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -754,7 +754,7 @@
             },
             "H4": {
               "color": "#ffffff",
-              "font-size": "30px"
+              "font-size": "32px"
             }
           }
         },
@@ -842,7 +842,7 @@
             "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": "1",
-            "bgColor": "#222222"
+            "bgColor": "#000000"
           },
           "title": "Coaches",
           "meta": "",
@@ -957,7 +957,7 @@
             }
           },
           "title": "Jeremy Granger",
-          "text": "Jeremy Granger played for head coach Mike Sitter at Elgin High School, he was named fourth team All-State by Illinois High School Basketball Coaches Association and participated in the IBCA All-Star game. Jeremy was a two-time first team All-Upstate Eight Conference selection and two-time All-Area by the Daily Herald. Jeremy averaged 17 points, 5.2 rebounds, 3.5 assists and 2.0 steals as a senior leading Elgin HS to a 21-10 record and appearance in the IHSA Class 4A Elite Eight, he ranked 8th all-time at Elgin HS with 1,115 career points and advanced to IHSA State Finals for 3-Point Showdown. <br><br>Jeremy continued playing after HS in 118 games with 89 starts at Eastern Illinois University. Jeremy finished third in career games played at EIU, finished with 1,287 career points, is their career leader in free throw percentage at 86.9, is ranked fifth in career free throws made and third in career assists with 313.<br><br>After graduating in 2012, Jeremy went on to play professionally overseas for 4 years, in Turkey, Greece, Mexico, and Slovakia.",
+          "text": "Jeremy Granger played for head coach Mike Sitter at Elgin High School, he was named fourth team All-State by Illinois High School Basketball Coaches Association and participated in the IBCA All-Star game. Jeremy was a two-time first team All-Upstate Eight Conference selection and two-time All-Area by the Daily Herald. Jeremy averaged 17 points, 5.2 rebounds, 3.5 assists and 2.0 steals as a senior leading Elgin HS to a 21-10 record and appearance in the IHSA Class 4A Elite Eight, he ranked 8th all-time at Elgin HS with 1,115 career points and advanced to IHSA State Finals for the 3-Point Showdown. <br><br>Jeremy continued playing after HS in 118 games with 89 starts at Eastern Illinois University. Jeremy finished third in career games played at EIU, finished with 1,287 career points, is their career leader in free throw percentage at 86.9, is ranked fifth in career free throws made and third in career assists with 313.<br><br>After graduating in 2012, Jeremy went on to play professionally overseas for 4 years, in Turkey, Greece, Mexico, and Slovakia.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -971,7 +971,7 @@
             "showText": true,
             "showButtons": true,
             "inverse": false,
-            "imageSize": "26",
+            "imageSize": "20",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -1039,7 +1039,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
