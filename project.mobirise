@@ -56,7 +56,7 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "24px"
+              "font-size": "32px"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -68,10 +68,10 @@
               "color": "#000000"
             },
             ".link": {
-              "font-size": "1.05rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.137rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -104,14 +104,14 @@
           ],
           "_name": "menu",
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1.05",
+            "fontSize": "1",
             "fontName": {},
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
@@ -284,7 +284,7 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "24px"
+              "font-size": "32px"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -296,10 +296,10 @@
               "color": "#000000"
             },
             ".link": {
-              "font-size": "1.05rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.137rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -333,14 +333,14 @@
           "_name": "menu",
           "_anchor": "menu-6",
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1.05",
+            "fontSize": "1",
             "fontName": {},
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
