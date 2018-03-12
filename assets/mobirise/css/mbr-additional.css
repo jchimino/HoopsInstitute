@@ -431,11 +431,11 @@ h6,
   color: #000000;
 }
 #menu-o .link {
-  font-size: 1rem;
+  font-size: 0.95rem;
 }
 #menu-o .dropdown-item,
 #menu-o .nav-dropdown-sm .link {
-  font-size: 1.083rem;
+  font-size: 1.029rem;
 }
 #menu-o .link:hover,
 #menu-o .dropdown-item:hover,
@@ -474,7 +474,7 @@ h6,
 #menu-o .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#form1-u .form-control-label {
+#form1-3o .form-control-label {
   color: #232323;
 }
 #contacts4-t P {
@@ -633,5 +633,76 @@ h6,
   font-size: 22px;
 }
 #contacts1-2a P {
+  font-size: 14px;
+}
+#menu-3k .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-3k .navbar-caption {
+  color: #ffffff;
+  font-size: 32px;
+}
+#menu-3k .navbar-toggler {
+  color: #000000;
+}
+#menu-3k .close-icon::before,
+#menu-3k .close-icon::after {
+  background-color: #000000;
+}
+#menu-3k .link,
+#menu-3k .dropdown-item {
+  color: #000000;
+}
+#menu-3k .link {
+  font-size: 0.95rem;
+}
+#menu-3k .dropdown-item,
+#menu-3k .nav-dropdown-sm .link {
+  font-size: 1.029rem;
+}
+#menu-3k .link:hover,
+#menu-3k .dropdown-item:hover,
+#menu-3k .link:focus,
+#menu-3k .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-3k .link[aria-expanded="true"],
+#menu-3k .dropdown-menu {
+  background: #e6e6e6;
+}
+#menu-3k .nav-dropdown-sm .link:focus,
+#menu-3k .nav-dropdown-sm .link:hover,
+#menu-3k .nav-dropdown-sm .dropdown-item:focus,
+#menu-3k .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#menu-3k .navbar,
+#menu-3k .nav-dropdown-sm,
+#menu-3k .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-3k .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#menu-3k .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#menu-3k .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-3k .bg-color.transparent.opened .link:hover,
+#menu-3k .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-3k .link[aria-expanded="true"],
+#menu-3k .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#pricing-table1-3n .mbr-section__container .mbr-section-title {
+  color: #fff;
+}
+#pricing-table1-3n .mbr-section__container .mbr-section-subtitle {
+  color: #a0a0a0;
+}
+#contacts1-3m P {
   font-size: 14px;
 }
