@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page2.html",
+    "currentPage": "Events.html",
     "versionFirst": "3.0",
     "versionPublish": "4.6.5",
     "name": "City Hoops Institute",
@@ -1076,7 +1076,7 @@
         }
       ]
     },
-    "page2.html": {
+    "Events.html": {
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Events",
