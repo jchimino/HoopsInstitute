@@ -31,7 +31,7 @@
     "scrollAnimation": "true",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "uniqCompNum": 135,
+    "uniqCompNum": 137,
     "favicon": "@PROJECT_PATH@/assets/images/chilogo3-128x128-2.png",
     "noImageResize": "",
     "google-analytics": "<!-- Global Site Tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-107298671-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments)};\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-107298671-1');\r\n</script>\r\n",
@@ -1201,7 +1201,7 @@
             "firstType": "",
             "secondType": "",
             "thirdType": "",
-            "fourthType": "bg-primary",
+            "fourthType": "",
             "paddingTop": 3,
             "paddingBottom": "1",
             "showButtons": true,
@@ -1219,15 +1219,15 @@
             "overlayOpacity": 0.5
           },
           "title": "ELGIN CITY HOOPS",
-          "subtitle": "March 17th, 24th, 31st, &amp; April 7th",
+          "subtitle": "Development Camps on Saturdays starting at 2pm.",
           "title1": "One Session",
           "title2": "Two Sessions",
           "title3": "Three &nbsp;Sessions",
           "title4": "Four Sessions",
-          "subtitle1": "1 Hour",
-          "subtitle2": "2 Hours",
-          "subtitle3": "3 Hours",
-          "subtitle4": "4 Hours",
+          "subtitle1": "(1 Hour)",
+          "subtitle2": "(2 Hours)",
+          "subtitle3": "(3 Hours)",
+          "subtitle4": "(4 Hours)",
           "label1": "HOT!",
           "label2": "HOT!",
           "label3": "HOT!",
@@ -1237,7 +1237,7 @@
           "currency3": "$",
           "currency4": "$",
           "price1": "20",
-          "price2": "30",
+          "price2": "35",
           "price3": "40",
           "price4": "50",
           "period1": ".00",
@@ -1315,8 +1315,8 @@
           "_tags": [
             "Theme"
           ],
-          "title": "OPEN CITY HOOPS&nbsp;",
-          "subtitle": "By invitation only, please join the wait list by contacting the CHI.",
+          "title": "NORTH SIDE CITY HOOPS&nbsp;",
+          "subtitle": "By invitation only, please join our wait list by contacting the CHI.",
           "title1": "Starter Package",
           "title2": "Practice Squad",
           "title3": "PREMIUM",
@@ -1333,7 +1333,7 @@
           "currency2": "$",
           "currency3": "$",
           "currency4": "$",
-          "price1": "40",
+          "price1": "30",
           "price2": "10",
           "price3": "0",
           "price4": "0",
@@ -1349,12 +1349,88 @@
           "_anchor": "pricing-table2-3p"
         },
         {
+          "_styles": {
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "firstType": "",
+            "secondType": "",
+            "thirdType": "hidden",
+            "fourthType": "hidden",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "WEST SIDE CITY HOOPS",
+          "subtitle": "By appointment only, dates &amp; times are flexible. Please contact the CHI for more information.",
+          "title1": "Individual",
+          "title2": "Group",
+          "title3": "PREMIUM",
+          "title4": "ULTIMATE",
+          "subtitle1": "",
+          "subtitle2": "",
+          "subtitle3": "Description",
+          "subtitle4": "Description",
+          "label1": "HOT!",
+          "label2": "HOT!",
+          "label3": "HOT!",
+          "label4": "HOT!",
+          "currency1": "$",
+          "currency2": "$",
+          "currency3": "$",
+          "currency4": "$",
+          "price1": "50",
+          "price2": "30",
+          "price3": "0",
+          "price4": "0",
+          "period1": "/hr.",
+          "period2": "/hr.",
+          "period3": "/mo.",
+          "period4": "/mo.",
+          "description1": "Total for 1-2 persons.",
+          "description2": "Price is per person, minimum of 3.",
+          "description3": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "description4": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "list1": "",
+          "list2": "",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">BUY</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">BUY</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-3s"
+        },
+        {
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>All purchases of our Open City Hoop sessions is given back to the youth and communities by providing them with additional gym time, resources, and instruction.</p>",
+          "text": "<p>All purchases of our NORTH &amp; WEST SIDE CITY HOOP sessions is distributed back to the youth and communities by providing them with additional gym time, resources, and instruction.</p>",
           "_tags": [
             "Theme"
           ],
@@ -1363,7 +1439,7 @@
           "_styles": {
             "P": {
               "text-align": "center",
-              "font-size": "15px"
+              "font-size": "13px"
             }
           }
         },
