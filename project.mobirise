@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "contact.html",
+    "currentPage": "cityhoopsinc.html",
     "versionFirst": "3.0",
     "versionPublish": "4.6.5",
     "name": "City Hoops Institute",
@@ -31,7 +31,7 @@
     "scrollAnimation": "true",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "uniqCompNum": 156,
+    "uniqCompNum": 157,
     "favicon": "@PROJECT_PATH@/assets/images/chilogo3-128x128-2.png",
     "noImageResize": "",
     "google-analytics": "<!-- Global Site Tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-107298671-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments)};\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-107298671-1');\r\n</script>\r\n",
@@ -210,61 +210,6 @@
               "color": "#232323"
             }
           }
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts4",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            }
-          },
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#000000",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "text1": "<strong>Address</strong><br>Chicago, Illinois<br><br><br>\n<strong>Contact</strong><br>Phone: (312) 469 - 0489<br>Email: <a href=\"contactpage.html\">Contact</a><br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Link</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.facebook.com/CityHoopsInstitute/\" target=\"_blank\">Facebook</a></li><li><a href=\"https://www.instagram.com/cityhoopsinstitute/\" target=\"_blank\" style=\"font-size: 0.875rem; background-color: rgb(0, 0, 0);\">Instagram</a><br></li><li>Registration &amp; Liability Waiver</li></ul>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "jchim42@gmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
-          "_anchor": "contacts4-t"
         }
       ]
     },
@@ -1045,34 +990,47 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2018-03-08-at-5.17.34-pm-128x120.png",
-              "width": 128,
-              "active": true,
-              "link": "#top",
-              "alt": "",
-              "title": ""
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
+          "text1": "<strong>Address</strong><br>Chicago, Illinois<br><br><br>\n<strong>Contact</strong><br>Phone: (312) 469 - 0489<br>Email: <a href=\"mailto:cityhoopsinstitute@gmail.com\">Contact</a><br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Link</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.facebook.com/CityHoopsInstitute/\" target=\"_blank\">Facebook</a></li><li><a href=\"https://www.instagram.com/cityhoopsinstitute/\" target=\"_blank\" style=\"font-size: 0.875rem; background-color: rgb(0, 0, 0);\">Instagram</a><br></li><li><a href=\"assets/files/CHIRegistrationForm.pdf\" target=\"_blank\">Registration &amp; Liability Waiver</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "jchim42@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
             },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
             }
           },
-          "text1": "<strong>Address</strong><br>\nChicago, IL&nbsp;",
-          "text2": "<strong>Contacts</strong><br>\nEmail: cityhoopsinstitute@gmail.com<br>\nPhone: +1 (312) 469 0489&nbsp;",
-          "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"https://twitter.com/_CityHoops\">Twitter</a><br><a class=\"text-primary\" href=\"https://www.instagram.com/cityhoopsinstitute/\">Instagram&nbsp;</a><br><a class=\"text-primary\" href=\"https://www.facebook.com/CityHoopsInstitute/\">Facebook</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts1",
-          "_anchor": "contacts1-2a",
+          "_name": "contacts4",
           "_styles": {
             "P": {
-              "font-size": "14px"
+              "text-align": "left"
             }
-          }
+          },
+          "_anchor": "contacts4-4c"
         }
       ]
     },
@@ -1093,13 +1051,13 @@
               "font-size": "32px"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".link": {
               "font-size": "1.15rem"
@@ -1111,16 +1069,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1475,15 +1433,16 @@
             }
           },
           "text1": "<strong>Address</strong><br>\nChicago, IL&nbsp;",
-          "text2": "<strong>Contacts</strong><br>\nEmail: cityhoopsinstitute@gmail.com<br>\nPhone: +1 (312) 469 0489&nbsp;",
-          "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"https://twitter.com/_CityHoops\">Twitter</a><br><a class=\"text-primary\" href=\"https://www.instagram.com/cityhoopsinstitute/\">Instagram&nbsp;</a><br><a class=\"text-primary\" href=\"https://www.facebook.com/CityHoopsInstitute/\">Facebook</a>",
+          "text2": "<strong>Contact</strong><br>\nEmail: cityhoopsinstitute@gmail.com<br>\nPhone: +1 (312) 469 0489&nbsp;",
+          "text3": "<strong>Quick Links</strong><br><a class=\"text-primary\" href=\"https://www.facebook.com/CityHoopsInstitute/\">Facebook</a><br><a class=\"text-primary\" href=\"https://www.instagram.com/cityhoopsinstitute/\">Instagram&nbsp;</a><br><a class=\"text-primary\" href=\"https://www.facebook.com/CityHoopsInstitute/\">Registration &amp; Liability Waiver</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "contacts1",
           "_styles": {
             "P": {
-              "font-size": "14px"
+              "font-size": "14px",
+              "color": "#ffffff"
             }
           },
           "_anchor": "contacts1-3m"
@@ -1853,15 +1812,16 @@
             }
           },
           "text1": "<strong>Address</strong><br>\nChicago, IL&nbsp;",
-          "text2": "<strong>Contacts</strong><br>\nEmail: cityhoopsinstitute@gmail.com<br>\nPhone: +1 (312) 469 0489&nbsp;",
-          "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"https://twitter.com/_CityHoops\">Twitter</a><br><a class=\"text-primary\" href=\"https://www.instagram.com/cityhoopsinstitute/\">Instagram&nbsp;</a><br><a class=\"text-primary\" href=\"https://www.facebook.com/CityHoopsInstitute/\">Facebook</a>",
+          "text2": "<strong>Contact</strong><br>\nEmail: cityhoopsinstitute@gmail.com<br>\nPhone: +1 (312) 469 0489&nbsp;",
+          "text3": "<strong>Quick Links</strong><br><a class=\"text-primary\" href=\"https://www.facebook.com/CityHoopsInstitute/\">Facebook</a><br><a class=\"text-primary\" href=\"https://www.instagram.com/cityhoopsinstitute/\">Instagram&nbsp;</a><br><a class=\"text-primary\" href=\"https://www.facebook.com/CityHoopsInstitute/\">Registration &amp; Liability Waiver</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "contacts1",
           "_styles": {
             "P": {
-              "font-size": "14px"
+              "font-size": "14px",
+              "color": "#ffffff"
             }
           },
           "_anchor": "contacts1-47"

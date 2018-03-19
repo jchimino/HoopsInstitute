@@ -477,9 +477,6 @@ h6,
 #form1-3o .form-control-label {
   color: #232323;
 }
-#contacts4-t P {
-  text-align: left;
-}
 
 
 
@@ -632,8 +629,8 @@ h6,
   font-family: 'Montserrat', sans-serif;
   font-size: 22px;
 }
-#contacts1-2a P {
-  font-size: 14px;
+#contacts4-4c P {
+  text-align: left;
 }
 #menu-3k .hide-buttons .nav-btn {
   display: none !important;
@@ -643,15 +640,15 @@ h6,
   font-size: 32px;
 }
 #menu-3k .navbar-toggler {
-  color: #000000;
+  color: #ffffff;
 }
 #menu-3k .close-icon::before,
 #menu-3k .close-icon::after {
-  background-color: #000000;
+  background-color: #ffffff;
 }
 #menu-3k .link,
 #menu-3k .dropdown-item {
-  color: #000000;
+  color: #ffffff;
 }
 #menu-3k .link {
   font-size: 1.15rem;
@@ -668,22 +665,22 @@ h6,
 }
 #menu-3k .link[aria-expanded="true"],
 #menu-3k .dropdown-menu {
-  background: #e6e6e6;
+  background: #000000;
 }
 #menu-3k .nav-dropdown-sm .link:focus,
 #menu-3k .nav-dropdown-sm .link:hover,
 #menu-3k .nav-dropdown-sm .dropdown-item:focus,
 #menu-3k .nav-dropdown-sm .dropdown-item:hover {
-  background: #f7f7f7!important;
+  background: #000000!important;
 }
 #menu-3k .navbar,
 #menu-3k .nav-dropdown-sm,
 #menu-3k .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-3k .nav-dropdown-sm .dropdown-menu {
-  background: #ffffff;
+  background: #000000;
 }
 #menu-3k .bg-color.transparent .link {
-  color: #000000;
+  color: #ffffff;
   transition: none;
 }
 #menu-3k .bg-color.transparent.opened .link {
@@ -738,6 +735,7 @@ h6,
 }
 #contacts1-3m P {
   font-size: 14px;
+  color: #ffffff;
 }
 
 
@@ -843,4 +841,5 @@ h6,
 }
 #contacts1-47 P {
   font-size: 14px;
+  color: #ffffff;
 }
