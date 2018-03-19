@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "cityhoopsinc.html",
+    "currentPage": "Events.html",
     "versionFirst": "3.0",
     "versionPublish": "4.6.5",
     "name": "City Hoops Institute",
@@ -1434,7 +1434,7 @@
           },
           "text1": "<strong>Address</strong><br>\nChicago, IL&nbsp;",
           "text2": "<strong>Contact</strong><br>\nEmail: cityhoopsinstitute@gmail.com<br>\nPhone: +1 (312) 469 0489&nbsp;",
-          "text3": "<strong>Quick Links</strong><br><a class=\"text-primary\" href=\"https://www.facebook.com/CityHoopsInstitute/\">Facebook</a><br><a class=\"text-primary\" href=\"https://www.instagram.com/cityhoopsinstitute/\">Instagram&nbsp;</a><br><a class=\"text-primary\" href=\"https://www.facebook.com/CityHoopsInstitute/\">Registration &amp; Liability Waiver</a>",
+          "text3": "<strong>Quick Links</strong><br><a class=\"text-primary\" href=\"https://www.facebook.com/CityHoopsInstitute/\">Facebook</a><br><a class=\"text-primary\" href=\"https://www.instagram.com/cityhoopsinstitute/\">Instagram&nbsp;</a><br><a class=\"text-primary\" href=\"assets/files/CHIRegistrationForm.pdf\" target=\"_blank\">Registration &amp; Liability Waiver</a>",
           "_tags": [
             "Theme"
           ],
@@ -1813,7 +1813,7 @@
           },
           "text1": "<strong>Address</strong><br>\nChicago, IL&nbsp;",
           "text2": "<strong>Contact</strong><br>\nEmail: cityhoopsinstitute@gmail.com<br>\nPhone: +1 (312) 469 0489&nbsp;",
-          "text3": "<strong>Quick Links</strong><br><a class=\"text-primary\" href=\"https://www.facebook.com/CityHoopsInstitute/\">Facebook</a><br><a class=\"text-primary\" href=\"https://www.instagram.com/cityhoopsinstitute/\">Instagram&nbsp;</a><br><a class=\"text-primary\" href=\"https://www.facebook.com/CityHoopsInstitute/\">Registration &amp; Liability Waiver</a>",
+          "text3": "<strong>Quick Links</strong><br><a class=\"text-primary\" href=\"https://www.facebook.com/CityHoopsInstitute/\">Facebook</a><br><a class=\"text-primary\" href=\"https://www.instagram.com/cityhoopsinstitute/\">Instagram&nbsp;</a><br><a class=\"text-primary\" href=\"assets/files/CHIRegistrationForm.pdf\" target=\"_blank\">Registration &amp; Liability Waiver</a>",
           "_tags": [
             "Theme"
           ],
