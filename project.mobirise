@@ -171,7 +171,7 @@
             "overlayOpacity": 0.5
           },
           "title": "CONTACT US",
-          "subtitle": "If you're interested in an event, please include the participant's NAME, AGE, and the event LOCATION and DATES in the message.<br>Please also download, fill out, and return <a href=\"assets/files/CHIRegistrationForm.pdf\">this registration &amp; liability form</a>.&nbsp;",
+          "subtitle": "If you're interested in an event, please include the participant's NAME, AGE, and the event LOCATION and DATES in the message.<br>You must also download, complete, and return <a href=\"assets/files/CHIRegistrationForm.pdf\">this registration &amp; liability form</a>&nbsp;by the first event.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
           "form": {
             "action": "CityHoopsInstitute@gmail.com",
@@ -233,8 +233,8 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "text1": "<strong>Address</strong><br>Chicago, Illinois<br><br><br>\n<strong>Contacts</strong><br>Phone: (312) 469 - 0489<br>Email: <a href=\"contactpage.html\">Contact</a><br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Link</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://twitter.com/_CityHoops\" target=\"_blank\">Twitter</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"https://www.instagram.com/cityhoopsinstitute/\" target=\"_blank\">Instagram</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>",
+          "text1": "<strong>Address</strong><br>Chicago, Illinois<br><br><br>\n<strong>Contact</strong><br>Phone: (312) 469 - 0489<br>Email: <a href=\"contactpage.html\">Contact</a><br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Link</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.facebook.com/CityHoopsInstitute/\" target=\"_blank\">Facebook</a></li><li><a href=\"https://www.instagram.com/cityhoopsinstitute/\" target=\"_blank\" style=\"font-size: 0.875rem; background-color: rgb(0, 0, 0);\">Instagram</a><br></li><li>Registration &amp; Liability Waiver</li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "jchim42@gmail.com",
