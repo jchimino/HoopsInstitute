@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Events.html",
     "versionFirst": "3.0",
     "versionPublish": "4.6.5",
     "name": "City Hoops Institute",
@@ -31,7 +31,7 @@
     "scrollAnimation": "true",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "uniqCompNum": 137,
+    "uniqCompNum": 139,
     "favicon": "@PROJECT_PATH@/assets/images/chilogo3-128x128-2.png",
     "noImageResize": "",
     "google-analytics": "<!-- Global Site Tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-107298671-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments)};\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-107298671-1');\r\n</script>\r\n",
@@ -1102,10 +1102,10 @@
               "color": "#000000"
             },
             ".link": {
-              "font-size": "0.95rem"
+              "font-size": "1.15rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.029rem"
+              "font-size": "1.245rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1205,18 +1205,18 @@
             "paddingTop": 3,
             "paddingBottom": "1",
             "showButtons": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-mar-10-1-14-35-pm-1999x1007.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
             "bgColor": "#000000",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.9"
           },
           "title": "ELGIN CITY HOOPS",
           "subtitle": "Development Camps on Saturdays starting at 2pm.",
@@ -1279,6 +1279,9 @@
             },
             ".mbr-plan-price-desc": {
               "color": "#a0a0a0"
+            },
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#000000"
             }
           },
           "_params": {
@@ -1292,7 +1295,7 @@
             "paddingBottom": "1",
             "showButtons": true,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/photo%20mar%2009,%201%2020%2055%20pm-720x720.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -1300,9 +1303,9 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.2"
           },
           "description1": "<span style=\"font-style: normal;\">No Frills Competition</span>",
           "description2": "<span style=\"font-style: normal;\">No Frills Competition</span>",

@@ -654,11 +654,11 @@ h6,
   color: #000000;
 }
 #menu-3k .link {
-  font-size: 0.95rem;
+  font-size: 1.15rem;
 }
 #menu-3k .dropdown-item,
 #menu-3k .nav-dropdown-sm .link {
-  font-size: 1.029rem;
+  font-size: 1.245rem;
 }
 #menu-3k .link:hover,
 #menu-3k .dropdown-item:hover,
@@ -722,6 +722,9 @@ h6,
 }
 #pricing-table2-3p .mbr-plan-price-desc {
   color: #a0a0a0;
+}
+#pricing-table2-3p .mbr-section__container .mbr-section-title {
+  color: #000000;
 }
 #pricing-table1-3s .mbr-section__container .mbr-section-title {
   color: #fff;
