@@ -700,27 +700,28 @@ h6,
 #pricing-table1-3n .mbr-section__container .mbr-section-subtitle {
   color: #a0a0a0;
 }
-#pricing-table2-3p .mbr-plan-header,
-#pricing-table2-3p .mbr-plan-body {
-  background-color: #f4f4f4;
+#pricing-table1-4d .mbr-section__container .mbr-section-title {
+  color: #000000;
 }
-#pricing-table2-3p ul,
-#pricing-table2-3p .mbr-plan-title,
-#pricing-table2-3p .mbr-price-value,
-#pricing-table2-3p .mbr-price-figure,
-#pricing-table2-3p .mbr-price-term {
-  color: #28262b;
+#pricing-table1-4d .mbr-section__container .mbr-section-subtitle {
+  color: #000000;
 }
-#pricing-table2-3p .mbr-plan {
-  border-color: #e8e8e8;
+#pricing-table1-4d .mbr-price-figure {
+  color: #000000;
 }
-#pricing-table2-3p .mbr-plan .list-group-item {
-  border-color: #cfcfcf;
+#pricing-table1-4d .mbr-plan-title {
+  color: #000000;
 }
-#pricing-table2-3p .mbr-plan-price-desc {
-  color: #a0a0a0;
+#pricing-table1-4d .mbr-price-term {
+  color: #000000;
 }
-#pricing-table2-3p .mbr-section__container .mbr-section-title {
+#pricing-table1-4d .mbr-price-value {
+  color: #000000;
+}
+#pricing-table1-4d .mbr-plan-price-desc {
+  color: #000000;
+}
+#pricing-table1-4d DIV {
   color: #000000;
 }
 #pricing-table1-3s .mbr-section__container .mbr-section-title {
@@ -728,6 +729,10 @@ h6,
 }
 #pricing-table1-3s .mbr-section__container .mbr-section-subtitle {
   color: #a0a0a0;
+}
+#pricing-table1-3s .mbr-plan-price-desc {
+  color: #efefef;
+  font-size: 16px;
 }
 #content1-3q P {
   text-align: center;
