@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Events.html",
+    "currentPage": "index.html",
     "versionFirst": "3.0",
     "versionPublish": "4.6.5",
     "name": "City Hoops Institute",
@@ -317,7 +317,7 @@
               "text-align": "right"
             },
             ".mbr-section-lead": {
-              "color": "#efefef",
+              "color": "#000000",
               "font-family": "'Source Sans Pro', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
               "font-size": "22px",
@@ -328,6 +328,12 @@
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "72px"
+            },
+            ".mbr-section-lead B": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-lead SPAN": {
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -342,7 +348,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/chicago-wallpaper-4k-1200x675.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/cityskyline-1638x1224.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#efefef",
@@ -352,10 +358,10 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.7"
+            "overlayOpacity": "0.1"
           },
-          "title": "<br><span style=\"font-size: 4.39rem; line-height: 1.1;\"><br></span><br><span style=\"font-size: 4.39rem; line-height: 1.1;\">City Hoops Institute</span><br>",
-          "text": "Basketball for development and peace.<br>",
+          "title": "<span style=\"font-size: 4.39rem; line-height: 1.1;\">City Hoops Institute</span><br>",
+          "text": "<span style=\"font-style: normal;\">Basketball for development and peace.<br></span><br><br><b><br></b><br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"index.html#features6-1\" data-toolbar=\"-mbrBtnMove\">Learn More</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=20.00&amp;item_name=Twenty+Dollar+Donation&amp;currency_code=USD\" data-toolbar=\"-mbrBtnMove\">Donate</a>"
         },
         {
