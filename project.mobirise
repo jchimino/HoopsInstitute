@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Events.html",
     "versionFirst": "3.0",
     "versionPublish": "4.6.5",
     "name": "City Hoops Institute",
@@ -1203,7 +1203,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#ffffff!important"
             }
           },
           "_tags": [
@@ -1292,7 +1292,7 @@
             "overlayOpacity": "0.9"
           },
           "title": "ELGIN CITY HOOPS",
-          "subtitle": "Development Camps on Saturdays starting at 2pm.",
+          "subtitle": "Life &amp; Skills Development Camp on Saturdays starting at 2pm.",
           "title1": "One Session",
           "title2": "Two Sessions",
           "title3": "Three &nbsp;Sessions",
@@ -1386,7 +1386,7 @@
             "overlayOpacity": "0.9"
           },
           "title": "NORTH SIDE CITY HOOPS",
-          "subtitle": "By invitation only, please join our wait list by contacting the CHI.",
+          "subtitle": "By invitation only, please join our wait list by contacting the CHi.",
           "title1": "Starter Package",
           "title2": "Practice Squad",
           "title3": "PREMIUM",
@@ -1466,7 +1466,7 @@
             "overlayOpacity": "0.9"
           },
           "title": "WEST SIDE CITY HOOPS",
-          "subtitle": "By appointment only, dates &amp; times are flexible. Please contact the CHI for more information.",
+          "subtitle": "By appointment only, dates &amp; times are flexible. Please contact the CHi for more information.",
           "title1": "Individual",
           "title2": "Group",
           "title3": "PREMIUM",
