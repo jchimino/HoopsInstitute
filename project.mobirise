@@ -358,7 +358,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.1"
+            "overlayOpacity": "0.5"
           },
           "title": "<span style=\"font-size: 4.39rem; line-height: 1.1;\">City Hoops Institute</span><br>",
           "text": "<span style=\"font-style: normal;\">Basketball for development and peace.<br></span><br><br><b><br></b><br><br><br>",
@@ -1442,14 +1442,14 @@
               "text-align": "right"
             },
             ".mbr-section-lead": {
-              "color": "#000000",
+              "color": "#ffffff",
               "font-family": "'Source Sans Pro', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
               "font-size": "30px",
               "text-align": "right"
             },
             ".mbr-section-title SPAN": {
-              "color": "#000000",
+              "color": "#ffffff",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "80px"
@@ -1462,7 +1462,7 @@
             "showArrow": true,
             "contentAlign": "right",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/screen-shot-2016-08-16-at-10.01.16-pm-913x236.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/cityskyline-1638x1224.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#efefef",
@@ -1470,11 +1470,11 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#000000",
             "overlayOpacity": "0.8"
           },
-          "title": "<span style=\"font-size: 4.39rem; line-height: 1.1;\">&nbsp;City Hoops Inc.</span><br>",
+          "title": "<span style=\"font-size: 4.39rem; line-height: 1.1;\">City Hoops Inc.</span><br>",
           "text": "&nbsp; &nbsp; A Basketball Agency.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"page3.html#header3-4a\" data-toolbar=\"-mbrBtnMove\">Learn More</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">Sign Up</a>",
           "_tags": [
