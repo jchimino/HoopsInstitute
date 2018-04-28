@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "cityhoopsinc.html",
+    "currentPage": "Events.html",
     "versionFirst": "3.0",
     "versionPublish": "4.6.5",
     "name": "City Hoops Institute",
@@ -1019,7 +1019,7 @@
             "overlayColor": "#222",
             "overlayOpacity": "0.9"
           },
-          "title": "WEST SIDE CITY HOOPS",
+          "title": "<br>WEST SIDE CITY HOOPS",
           "subtitle": "By appointment only, dates &amp; times are flexible. Please contact the CHi for more information.",
           "title1": "Individual",
           "title2": "Group",
