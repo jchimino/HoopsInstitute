@@ -1,8 +1,8 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Events.html",
     "versionFirst": "3.0",
-    "versionPublish": "4.6.5",
+    "versionPublish": "4.8.10",
     "name": "City Hoops Institute",
     "theme": {
       "name": "mobirise3",
@@ -37,7 +37,8 @@
     "google-analytics": "<!-- Global Site Tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-107298671-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments)};\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-107298671-1');\r\n</script>\r\n",
     "mcShopcart": {
       "email": "cityhoopsinstitute@gmail.com"
-    }
+    },
+    "siteFonts": []
   },
   "pages": {
     "contact.html": {
@@ -1053,8 +1054,8 @@
           "list2": "",
           "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
           "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">BUY</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">BUY</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=50&amp;item_name=Individual%2FPartner+Session&amp;currency_code=USD\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">BUY</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Group+Session&amp;currency_code=USD\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">BUY</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
           "_tags": [
@@ -1250,8 +1251,8 @@
           "list2": "<p>Two Hours on Tuesday Nights</p><p>Third Team or Substitute</p>",
           "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
           "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">BUY</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">BUY</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=30&amp;item_name=Starter+Package&amp;currency_code=USD\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">BUY</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=10&amp;item_name=Practice+Squad&amp;currency_code=USD\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">BUY</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
           "_tags": [
